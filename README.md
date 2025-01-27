@@ -1,7 +1,5 @@
 ![👋 Hi, my name is Max Voicu](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=MaxVoicu7&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -17,7 +15,7 @@
 
  **<h3 align="left">🚀 Backend developer with skills in frontend field (web platforms) and devOps (AWS). Working as a backend developer from July 2024.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">About me</h3>**
 
 - 💼 I'm currently working on: **💻 A backend for an app that will make shopping easier.**
 - 🌱 I'm currently learning: **📚 AWS, JavaScript, Node.js, PostgreSQL**
